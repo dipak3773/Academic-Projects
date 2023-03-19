@@ -23,7 +23,7 @@ Region: This is the beneficiary's place of residence in Delhi, divided into four
 Hospitalization charges: Individual medical costs billed to health insurance
 
 Concept Used:
-• Graphical and Non-Graphical Analysis
-• 2-sample t-test: testing for difference across populations
-• ANOVA
-• Chi-square
+1) Graphical and Non-Graphical Analysis
+2) 2-sample t-test: testing for difference across populations
+3) ANOVA
+4) Chi-square
