@@ -7,8 +7,8 @@ You can help Apollo hospitals to be more efficient, to influence diagnostic and 
 One of the best examples of data scientists making a meaningful difference at a global level is in the response to the COVID-19 pandemic, where they have improved information collection, provided ongoing and accurate estimates of infection spread and health system demand, and assessed the effectiveness of government policies.
 
 The company wants to know:
-• Which variables are significant in predicting the reason for hospitalization for different regions
-• How well some variables like viral load, smoking, Severity Level describe the hospitalization charges
+1) Which variables are significant in predicting the reason for hospitalization for different regions
+2) How well some variables like viral load, smoking, Severity Level describe the hospitalization charges
 
 Dataset: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/681/original/scaler_apollo_hospitals.csv
 
