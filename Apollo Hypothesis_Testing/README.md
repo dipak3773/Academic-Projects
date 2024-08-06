@@ -5,8 +5,6 @@ The company wants to know:
 Which variables are significant in predicting the reason for hospitalization for different regions?
 How well some variables like viral load, smoking, Severity Level describe the hospitalization charges?
 
-Dataset: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/681/original/scaler_apollo_hospitals.csv
-
 Column Profiling
 
 1. Age: This is an integer indicating the age of the primary beneficiary (excluding those above 64 years, since they are generally covered by the government)
